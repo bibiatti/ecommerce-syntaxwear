@@ -1,0 +1,11 @@
+/* Importações */
+@import url('reset.css');
+@import url('variables.css');
+
+/* Estilos globais */
+body {
+  font-family: var(--font-sans);
+  font-size: var(--font-size-base);
+  color: var(--color-text);
+  background-color: var(--color-background);
+}
