@@ -3,4 +3,31 @@
 /* Estilos globais */
 body {
   font-family: var(--font-principal);
+  color: #333333;
+}
+
+.site-header {
+ 
+}
+
+.logo {
+  margin: 0;
+}
+
+.nav-center {
+ 
+}
+
+.nav-center ul,
+.nav-secondary ul {
+  
+}
+
+.nav-secondary {
+ 
+}
+
+.nav-center a,
+.nav-secondary a {
+  
 }
